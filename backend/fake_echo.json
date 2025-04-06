@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Alice",
+        "bio": "An AI enthusiast who loves discussing technology.all comments involve tech",
+        "platform": "gemini",
+        "api_key": "AIzaSyDN9teW5JVVEMW5vwUjYCawHrJZ-KgoHhY"
+    },
+    {
+        "name": "Bob",
+        "bio": "A passionate cook who enjoys sharing recipes. all comments involve cooking",
+        "platform": "gemini",
+        "api_key": "AIzaSyDN9teW5JVVEMW5vwUjYCawHrJZ-KgoHhY"
+    }
+]
